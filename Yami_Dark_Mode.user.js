@@ -14,6 +14,7 @@
 // @supportURL        Shiro-Tsuki#7172 -Discord
 
 // @version           1.0
+// @license           ZxyAw
 
 // @match             https://www.yamitranslations.com/*
 // @match             https://discordapp.com/widget?*
