@@ -12,4 +12,6 @@ After installing tampermonkey, you can locate my scripts on [OpenUser.Js](https:
 Alternatively, just create a new script and copy paste the code for the script you want.
 
 # Downloads
-Yami Translations Dark Mode - [Greasy](https://greasyfork.org/en/scripts/392062-yamitranslationsdarkmode) | [OpenUser](https://openuserjs.org/scripts/Shiro-Tsuki/yamitranslationsdarkmode)
+Yami Translations - [Greasy](https://greasyfork.org/en/scripts/392062-yamitranslationsdarkmode) **|** [OpenUser](https://openuserjs.org/scripts/Shiro-Tsuki/yamitranslationsdarkmode)
+
+ImoutoSite - [Greasy](https://greasyfork.org/en/scripts/392069-imouto-darkmode) **|** [OpenUser](https://openuserjs.org/scripts/Shiro-Tsuki/Imouto_DarkMode)
