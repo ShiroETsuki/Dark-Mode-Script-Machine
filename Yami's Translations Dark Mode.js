@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==OpenUserJS==
 // @name         Yami Dark Mode
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://openuserjs.org/meta/Shiro-Tsuki/My_Script.meta.js
@@ -9,7 +9,7 @@
 // @match        https://discordapp.com/widget?* //this may influence other sites, but is necessary to theme the iframes. 
 // @match        https://www.blogger.com/* //same as above
 // @grant        GM_addStyle
-// ==/UserScript==
+// ==OpenUserJS==
 
 //function to overwrite existing CSS
 function addGlobalStyle(css) {
