@@ -10,7 +10,7 @@
 // @grant        GM_addStyle
 // @supportURL   Shiro-Tsuki#7172 -Discord
 
-// ==Userscript==
+// ==/UserScript==
 
 //function to overwrite existing CSS
 function addGlobalStyle(css) {
