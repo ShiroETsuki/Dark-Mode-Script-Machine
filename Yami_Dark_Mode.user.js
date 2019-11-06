@@ -1,15 +1,25 @@
-// ==Userscript==
-// @name         Yami Dark Mode
-// @namespace    https://greasyfork.org/en/users/395499-shiroetsuki
-// @version      1.0
-// @description  A Lavender Themed Dark Mode for the entire site.
-// @author       Shiro-Tsuki
-// @match        https://www.yamitranslations.com/*
-// @match        https://discordapp.com/widget?*
-// @match        https://www.blogger.com/*
-// @grant        GM_addStyle
-// @supportURL   Shiro-Tsuki#7172 -Discord
+// ==UserScript==
+// @namespace         https://greasyfork.org/en/users/395499-shiroetsuki
 
+// @name              yamitranslationsdarkmode
+// @name:en           Yami Translations Dark Mode
+
+// @author            Shiro Tsuki 
+
+// @description       Themes the entire site to be dark mode。
+// @description:en    Themes the entire site to be dark mode.
+
+// @description       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine
+// @homepageURL       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine/blob/master/user.js
+// @supportURL        Shiro-Tsuki#7172 -Discord
+
+// @version           1.0
+
+// @match             https://www.yamitranslations.com/*
+// @match             https://discordapp.com/widget?*
+// @match             https://www.blogger.com/*
+
+// @run-at      document-idle
 // ==/UserScript==
 
 //function to overwrite existing CSS
@@ -39,4 +49,3 @@ addGlobalStyle('.postCommentButtonHolder {background-color: #202225;}')
 addGlobalStyle('#allHolder {background-color: #202225 !important;}')
 addGlobalStyle('.tabz-content {background-color: #141414 !important;}')
 addGlobalStyle('.tabz-links a, ul.dropdown li, .dropit .dropit-submenu{background-color: #373737 !important;}')
-
