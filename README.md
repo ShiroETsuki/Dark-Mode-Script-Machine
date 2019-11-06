@@ -1,4 +1,4 @@
-## Dark-Mode-Script-Machine
+# Dark-Mode-Script-Machine
 
 These scripts are for use with tampermonkey, and may or may not work with other script injection addons for Chrome, Firefox, etc. 
 To use them, just download **Tampermonkey** here 
@@ -11,7 +11,7 @@ After installing tampermonkey, you can locate my scripts on [OpenUser.Js](https:
 
 Alternatively, just create a new script and copy paste the code for the script you want.
 
-# Downloads
+## Downloads
 Yami Translations - [Greasy](https://greasyfork.org/en/scripts/392062-yamitranslationsdarkmode) **|** [OpenUser](https://openuserjs.org/scripts/Shiro-Tsuki/yamitranslationsdarkmode)
 
 ImoutoSite - [Greasy](https://greasyfork.org/en/scripts/392069-imouto-darkmode) **|** [OpenUser](https://openuserjs.org/scripts/Shiro-Tsuki/Imouto_DarkMode)
