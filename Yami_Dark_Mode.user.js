@@ -15,7 +15,7 @@
 
 // @version           1.0
 // @license           MIT
-
+// @require           http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @match             https://www.yamitranslations.com/*
 // @match             https://discordapp.com/widget?*
 // @match             https://www.blogger.com/*
@@ -33,6 +33,9 @@ function addGlobalStyle(css) {
     style.innerHTML = css;
     head.appendChild(style);
 }
+
+//Html Injection for custom font.
+$("head").append (`<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">`);
 
 //Variable Callouts for each HTML element. 
 addGlobalStyle('body {color: #ffffff !important; background: #000000 !important; }')
