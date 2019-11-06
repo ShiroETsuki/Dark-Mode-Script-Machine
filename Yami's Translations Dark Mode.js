@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Yami Dark Mode
 // @namespace    http://tampermonkey.net/
+// @updateURL    https://openuserjs.org/meta/Shiro-Tsuki/My_Script.meta.js
 // @version      1.0
 // @description  A Lavender Themed Dark Mode for the entire site.
 // @author       Shiro-Tsuki
