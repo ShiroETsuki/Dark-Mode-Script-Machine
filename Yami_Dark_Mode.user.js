@@ -14,7 +14,7 @@
 // @supportURL        Shiro-Tsuki#7172 -Discord
 
 // @version           1.0
-// @license           ZxyAw
+// @license           GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
 
 // @match             https://www.yamitranslations.com/*
 // @match             https://discordapp.com/widget?*
