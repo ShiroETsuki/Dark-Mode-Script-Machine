@@ -1,14 +1,15 @@
 // ==Userscript==
 // @name         Yami Dark Mode
-// @namespace    http://tampermonkey.net/
-// @updateURL    https://openuserjs.org/meta/Shiro-Tsuki/My_Script.meta.js
+// @namespace    https://greasyfork.org/en/users/395499-shiroetsuki
 // @version      1.0
 // @description  A Lavender Themed Dark Mode for the entire site.
 // @author       Shiro-Tsuki
 // @match        https://www.yamitranslations.com/*
-// @match        https://discordapp.com/widget?* //this may influence other sites, but is necessary to theme the iframes. 
-// @match        https://www.blogger.com/* //same as above
+// @match        https://discordapp.com/widget?*
+// @match        https://www.blogger.com/*
 // @grant        GM_addStyle
+// @supportURL   Shiro-Tsuki#7172 -Discord
+
 // ==Userscript==
 
 //function to overwrite existing CSS
