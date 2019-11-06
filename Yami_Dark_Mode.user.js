@@ -11,10 +11,10 @@
 
 // @description       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine
 // @homepageURL       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine/blob/master/user.js
-// @supportURL        Shiro-Tsuki#7172 -Discord
+// @supportURL        mailto:liaxshiro@gmail.com
 
 // @version           1.0
-// @license           GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
+// @license           MIT
 
 // @match             https://www.yamitranslations.com/*
 // @match             https://discordapp.com/widget?*
