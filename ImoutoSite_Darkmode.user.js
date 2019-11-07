@@ -10,7 +10,7 @@
 // @description:en    Themes the entire site to be dark mode.
 
 // @description       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine
-// @homepageURL       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine/blob/master/user.js
+// @homepageURL       https://github.com/ShiroETsuki
 // @supportURL        mailto:liaxshiro@gmail.com
 
 // @version           1.0
