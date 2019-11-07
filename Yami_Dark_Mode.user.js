@@ -37,6 +37,8 @@ function addGlobalStyle(css) {
 //Html Injection for custom font.
 $("head").append (`<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">`);
 
+//Adds the font to the elements in the below brackets (html, body, p, span) to add or remove simply remove the element you do not wish to be affected.
+addGlobalStyle('html,body,p,span{font-family: \'Montserrat\', sans-serif;}')
 //Variable Callouts for each HTML element. 
 addGlobalStyle('body {color: #ffffff !important; background: #000000 !important; }')
 addGlobalStyle('a:visited {color: #7ed7fd !important;}')
