@@ -13,7 +13,7 @@
 // @homepageURL       https://github.com/ShiroETsuki/Dark-Mode-Script-Machine/blob/master/user.js
 // @supportURL        mailto:liaxshiro@gmail.com
 
-// @version           1.0
+// @version           1.0.1
 // @license           MIT
 // @require           http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @match             https://www.yamitranslations.com/*
